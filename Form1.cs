@@ -19,8 +19,8 @@ namespace do_an
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // hoang
-            //hoang
+            //anh 12
+            //anh 12
         }
     }
 }
