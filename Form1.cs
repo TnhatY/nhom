@@ -16,5 +16,11 @@ namespace do_an
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // hoang
+            //hoang
+        }
     }
 }

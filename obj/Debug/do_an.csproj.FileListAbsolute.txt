@@ -7,3 +7,4 @@ D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.csproj.GenerateResource.cache
 D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.csproj.CoreCompileInputs.cache
 D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.exe
 D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.pdb
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.Form1.resources
