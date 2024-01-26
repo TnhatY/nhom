@@ -1,0 +1,9 @@
+D:\Deadline\LTWINDOWS\do_an\do_an\bin\Debug\do_an.exe.config
+D:\Deadline\LTWINDOWS\do_an\do_an\bin\Debug\do_an.exe
+D:\Deadline\LTWINDOWS\do_an\do_an\bin\Debug\do_an.pdb
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.csproj.AssemblyReference.cache
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.Properties.Resources.resources
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.csproj.GenerateResource.cache
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.csproj.CoreCompileInputs.cache
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.exe
+D:\Deadline\LTWINDOWS\do_an\do_an\obj\Debug\do_an.pdb
