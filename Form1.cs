@@ -19,8 +19,8 @@ namespace do_an
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // 1234
-            // 5234
+            
         }
+        public void nhap() { }
     }
 }
