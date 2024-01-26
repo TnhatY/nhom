@@ -20,6 +20,7 @@ namespace do_an
         private void Form1_Load(object sender, EventArgs e)
         {
             // tran the anh
+            // tran the anh
         }
     }
 }
