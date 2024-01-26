@@ -19,8 +19,13 @@ namespace do_an
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //anh 12
             //anh 12
+=======
+            // anh
+            // anh
+>>>>>>> 283d8cc5ffea9ed9d7dba4a3aa88ea844e44df4b
         }
     }
 }
